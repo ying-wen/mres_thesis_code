@@ -1,4 +1,4 @@
-# MRes Thesis: Learning Distributed Representation of Multi-field Categorical Data
+# MRes Thesis: Learning Distributed Representation of Categorical Data
 
 ### Author: Ying Wen
 
